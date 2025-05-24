@@ -105,7 +105,7 @@ const Index = () => {
       <footer className="bg-gray-800 border-t border-gray-700 mt-16">
         <div className="max-w-6xl mx-auto px-4 py-6">
           <div className="text-center text-gray-400 text-sm">
-            <p>© 2024 LectureLearn AI - Transforming Education with AI</p>
+            <p>© 2025 LectureLearn AI - Transforming Education with AI</p>
           </div>
         </div>
       </footer>
